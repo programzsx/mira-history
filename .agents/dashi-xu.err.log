@@ -1,0 +1,6 @@
+error: unexpected argument 'D:\zhangshixin\wenyuange\mira-txt-workflow-prompt.txt，并加载' found
+
+Usage: codex exec [OPTIONS] [PROMPT]
+       codex exec [OPTIONS] <COMMAND> [ARGS]
+
+For more information, try '--help'.

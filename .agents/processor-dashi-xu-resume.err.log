@@ -1,0 +1,12 @@
+Error: API request failed: 502 <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+    at callModel (D:\zhangshixin\wenyuange\mira-history\.agents\process-text.js:99:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async processBatch (D:\zhangshixin\wenyuange\mira-history\.agents\process-text.js:108:23)
+    at async D:\zhangshixin\wenyuange\mira-history\.agents\process-text.js:142:20
